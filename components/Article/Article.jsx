@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './article.module.scss';
+import styles from './Article.module.scss';
 import Link from 'next/link';
 import {AiOutlineArrowLeft} from 'react-icons/ai';
 
